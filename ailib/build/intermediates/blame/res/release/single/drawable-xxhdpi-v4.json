@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/microphone_control.png",
+        "source": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/src/main/res/drawable-xxhdpi/microphone_control.png"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/speaker_silent.png",
+        "source": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/src/main/res/drawable-xxhdpi/speaker_silent.png"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/speaker.png",
+        "source": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/src/main/res/drawable-xxhdpi/speaker.png"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/cube.png",
+        "source": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/src/main/res/drawable-xxhdpi/cube.png"
+    }
+]

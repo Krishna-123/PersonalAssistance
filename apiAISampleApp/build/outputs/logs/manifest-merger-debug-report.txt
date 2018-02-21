@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [:ailib] /home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d04111a83f942cc24e56a894e6dc5d1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3775a243a85282f2c21dbb7166c620d5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9247af897e21e4c66ff77ba0d5085292/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7972614255bd02a30edd6c1e6de29008/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f3449e07fdebb1b3323789614468d8c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8d114f42474e568d29c1174c35c4fe04/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9da36c1e51bbee3a2debb823cfa363aa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e4e0743a414f7128afd863bbb3136987/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/865f2a00ef12aaaabae17ae2f2a7c947/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:10:22-77
+application
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:12:5-54:19
+MERGED from [:ailib] /home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-20
+MERGED from [:ailib] /home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d04111a83f942cc24e56a894e6dc5d1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d04111a83f942cc24e56a894e6dc5d1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3775a243a85282f2c21dbb7166c620d5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3775a243a85282f2c21dbb7166c620d5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9247af897e21e4c66ff77ba0d5085292/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9247af897e21e4c66ff77ba0d5085292/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7972614255bd02a30edd6c1e6de29008/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7972614255bd02a30edd6c1e6de29008/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f3449e07fdebb1b3323789614468d8c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f3449e07fdebb1b3323789614468d8c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8d114f42474e568d29c1174c35c4fe04/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8d114f42474e568d29c1174c35c4fe04/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9da36c1e51bbee3a2debb823cfa363aa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9da36c1e51bbee3a2debb823cfa363aa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e4e0743a414f7128afd863bbb3136987/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e4e0743a414f7128afd863bbb3136987/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/865f2a00ef12aaaabae17ae2f2a7c947/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/865f2a00ef12aaaabae17ae2f2a7c947/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:15:9-36
+	android:allowBackup
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:13:9-38
+activity#ai.api.sample.MainActivity
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:19:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:24:27-74
+activity#ai.api.sample.AIButtonSampleActivity
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:28:9-35:20
+	android:parentActivityName
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:31:13-68
+	android:label
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:30:13-67
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:29:13-64
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:32:13-34:62
+	android:value
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:34:17-59
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:33:17-63
+activity#ai.api.sample.AIWidgetActivity
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:37:9-42:20
+	android:label
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:38:13-45
+receiver#ai.api.sample.AISampleAppWidget
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:44:9-52:20
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:44:19-52
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:45:13-47:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:46:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:49:13-51:62
+	android:resource
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:51:17-59
+	android:name
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml:50:17-58
+uses-sdk
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+MERGED from [:ailib] /home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:ailib] /home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d04111a83f942cc24e56a894e6dc5d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d04111a83f942cc24e56a894e6dc5d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3775a243a85282f2c21dbb7166c620d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3775a243a85282f2c21dbb7166c620d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9247af897e21e4c66ff77ba0d5085292/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9247af897e21e4c66ff77ba0d5085292/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7972614255bd02a30edd6c1e6de29008/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7972614255bd02a30edd6c1e6de29008/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f3449e07fdebb1b3323789614468d8c7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f3449e07fdebb1b3323789614468d8c7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8d114f42474e568d29c1174c35c4fe04/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8d114f42474e568d29c1174c35c4fe04/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9da36c1e51bbee3a2debb823cfa363aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9da36c1e51bbee3a2debb823cfa363aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e4e0743a414f7128afd863bbb3136987/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e4e0743a414f7128afd863bbb3136987/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/865f2a00ef12aaaabae17ae2f2a7c947/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/865f2a00ef12aaaabae17ae2f2a7c947/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+		ADDED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+		INJECTED from /home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d04111a83f942cc24e56a894e6dc5d1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d04111a83f942cc24e56a894e6dc5d1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3775a243a85282f2c21dbb7166c620d5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/3775a243a85282f2c21dbb7166c620d5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9247af897e21e4c66ff77ba0d5085292/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9247af897e21e4c66ff77ba0d5085292/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7972614255bd02a30edd6c1e6de29008/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7972614255bd02a30edd6c1e6de29008/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f3449e07fdebb1b3323789614468d8c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f3449e07fdebb1b3323789614468d8c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8d114f42474e568d29c1174c35c4fe04/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/8d114f42474e568d29c1174c35c4fe04/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9da36c1e51bbee3a2debb823cfa363aa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9da36c1e51bbee3a2debb823cfa363aa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e4e0743a414f7128afd863bbb3136987/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e4e0743a414f7128afd863bbb3136987/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3a6026ad2d43db2bcb38d8e17c4b21a2/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/865f2a00ef12aaaabae17ae2f2a7c947/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/865f2a00ef12aaaabae17ae2f2a7c947/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/krishna/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/865f2a00ef12aaaabae17ae2f2a7c947/AndroidManifest.xml:26:13-58

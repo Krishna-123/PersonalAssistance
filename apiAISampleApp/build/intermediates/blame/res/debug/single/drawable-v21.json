@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/krishna/.android/build-cache/fc502b2f1fdf2804d52ffdc2e7fc913adfaa350d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/krishna/.android/build-cache/fc502b2f1fdf2804d52ffdc2e7fc913adfaa350d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/krishna/.android/build-cache/fc502b2f1fdf2804d52ffdc2e7fc913adfaa350d/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

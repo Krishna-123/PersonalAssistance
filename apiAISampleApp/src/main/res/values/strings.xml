@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">API.AI Sample</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_aibutton_sample">AIButtonSampleActivity</string>
+    <string name="title_activity_aiservice_sample">AIServiceSample</string>
+    <string name="title_activity_aidialog_sample">AIDialogSample</string>
+    <string name="title_activity_aitext_sample">AITextSample</string>
+    <string name="button_sample_text">Start me --></string>
+    <string name="title_app_widget">Voice command</string>
+    <string name="non_empty_query">Query should not be empty</string>
+
+    <string name="use_bluetooth_headset">Use Bluetooth headset</string>
+    <string name="app_title">Security Handler Is Up and Running!!</string>
+    <string name="enter_the_url">Enter The Url!</string>
+    <string name="set_url">Set Url</string>
+
+</resources>

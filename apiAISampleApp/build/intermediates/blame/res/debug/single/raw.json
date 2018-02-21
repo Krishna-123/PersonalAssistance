@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/res/merged/debug/raw/version_config.json",
+        "source": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/ailib/build/intermediates/bundles/default/res/raw/version_config.json"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_cancel.wav",
+        "source": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/res/raw/test_cancel.wav"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_stop.mp3",
+        "source": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/res/raw/test_stop.mp3"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_start.wav",
+        "source": "/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/src/main/res/raw/test_start.wav"
+    }
+]

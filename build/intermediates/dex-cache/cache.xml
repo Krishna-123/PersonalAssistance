@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.android/build-cache/fc502b2f1fdf2804d52ffdc2e7fc913adfaa350d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1daf74aaa2a8b729eda6ae805b127e17272b4ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e1ae1dab5374f9ca7b253a8cd553378c13cddfdb">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c5a5e85c44ebbb2f53e753eaa262110f01c825b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.android/build-cache/0094599613285148c0e893c2418926d70b81e264/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cf1bb9f44cc46a8d0a0627860a5f599824ddb49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_a2f12e5519229dd56eb50428241649078f6cfc19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/ai.api/libai/1.4.8/1386bf51c371e40bf1dc04920b04bd937c04e8ba/libai-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1386bf51c371e40bf1dc04920b04bd937c04e8ba">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/libai-1.4.8_94cf279a4b1b1810ed563b3e6e76b1be27c7104a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c93b713a63c477f84a092c6c98883cafda2264f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.android/build-cache/1d9d0d2da82c04bb1576e70f9352786cd92a6e68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac4f4ba37150572d9ce01f32560148eadd32b80c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.2/c707664e020218f8529b9a5e55016ee15f0f82ac/log4j-core-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c707664e020218f8529b9a5e55016ee15f0f82ac">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/log4j-core-2.2_21a4e38a8feb807705ee16fb82b9926cc55695f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.2/d7ef6ad7ff0711dd12fe409d62d72d6ed14516e0/log4j-api-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7ef6ad7ff0711dd12fe409d62d72d6ed14516e0">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/log4j-api-2.2_00c26618ea1db50e4855a2e316e5d28d17328a9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_8314ddeb55dfdec0c08afe30f74ed0bcd444c6e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.android/build-cache/1d9d0d2da82c04bb1576e70f9352786cd92a6e68/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_bfe475624a43a07e61d4d60de0b6a515197afcbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/.android/build-cache/8be4cf1a1685b8af6b9e8fa0961f6d8e4c9263af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16cf7a5b140c0348b2a2649c4c6eba2adf4a4757/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/krishna/Documents/android-studio/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/krishna/AndroidStudioProjects/apiai-android-client-master/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_6eefdd6944e6e9813ce97474526046ce65df5ae5/classes.dex" />
+    </item>
+
+</items>

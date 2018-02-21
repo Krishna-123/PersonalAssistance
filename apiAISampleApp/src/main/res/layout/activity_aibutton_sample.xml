@@ -1,0 +1,146 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:background="@drawable/ai1"
+    tools:context="ai.api.sample.AIButtonSampleActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:gravity="center"
+        android:background="#8000"
+        android:id="@+id/linearLayout"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_height="160dp"
+            android:layout_width="130dp"
+            android:id="@+id/lockSwitch"
+            android:orientation="horizontal"
+            android:layout_margin="20dp"
+            android:background="#00FF00"
+            android:gravity="center"
+           >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/lock"
+               />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_height="160dp"
+            android:layout_width="130dp"
+            android:id="@+id/unlockSwitch"
+            android:orientation="horizontal"
+            android:layout_margin="20dp"
+            android:background="#FF0000"
+            android:gravity="center"
+            android:visibility="gone"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/unlock"
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_height="160dp"
+            android:layout_width="130dp"
+            android:id="@+id/lockLight"
+            android:orientation="horizontal"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:background="#B22222"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/light_off"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_height="160dp"
+            android:layout_width="130dp"
+            android:id="@+id/unlockLight"
+            android:orientation="horizontal"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:background="#00FF00"
+            android:visibility="gone"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/light_on"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="@string/app_title"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#FFFF"
+        android:id="@+id/textView"
+        android:background="#8000"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="#8000"
+        android:id="@+id/relativeLayout"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="7dp">
+
+    <ai.api.ui.AIButton
+     android:id="@+id/micButton"
+     android:layout_height="130dp"
+     android:layout_width="130dp"
+     style="@style/ApiAi.Microphone" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/url_et"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="6"
+        android:textAlignment="center"
+        android:background="#000"
+        android:inputType="textPersonName"
+        android:hint="@string/enter_the_url"
+        android:textColor="#00FF00"
+        android:textColorHint="#00FF00"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/urlButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/set_url"
+        android:layout_marginLeft="31dp"
+        android:layout_marginStart="31dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="38dp"
+        android:layout_marginRight="65dp"
+        android:onClick="setURL"
+        />
+
+</RelativeLayout>
